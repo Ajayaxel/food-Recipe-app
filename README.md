@@ -1,6 +1,13 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# About of the projects  # live view of the projects :https://idyllic-bonbon-47dbe1.netlify.app
+Full Recipe App  using react js and tailwind css using fully responisve desing
+
+
+
+
+
+
 
 ## Available Scripts
 
